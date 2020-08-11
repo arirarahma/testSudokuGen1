@@ -5,4 +5,6 @@ let output1 = hello1();
 
 let output2 = hello2();
 
+let output3 = 'Output3';
+
 let outputDefault = defaultFunction();
