@@ -7,7 +7,7 @@ function hello2() {
 }
 
 function defaultFunction() {
-  return 'Test function 1;
+  return 'Test function Default;
 }
 
 export { hello1, hello2};
