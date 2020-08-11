@@ -1,5 +1,5 @@
-import {user} from './modules/user.js';
+// import {user} from './modules/user.js';
 
-let user;
+// let user;
 
 document.body.innerHTML = 'hahahhah'; // John
