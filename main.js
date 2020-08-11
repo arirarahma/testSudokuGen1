@@ -1,4 +1,4 @@
-import {user} from 'square.js';
+import {user} from './modules/user.js';
 
 let user;
 
