@@ -1,4 +1,4 @@
-import {user} from './square.js';
+import {user} from 'square.js';
 
 let user;
 
