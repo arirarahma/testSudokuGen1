@@ -1,3 +1,7 @@
-let var1 = 'BOndan';
+import { greetJohn } from './modules/user.js';
 
-document.body.innerHTML = 'Preffix ' + var1; // John
+let var1 = 'Bondan';
+
+document.getElementById('demo1').innerHTML = greetJohn();
+
+document.getElementById('demo2').innerHTML = 'Hello ' + var1;
